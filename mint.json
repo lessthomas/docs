@@ -43,10 +43,6 @@
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Best Practices",
-      "pages": ["best-practices/dashboards-or-tables", "best-practices/when-to-group-by"]
-    },
-    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
@@ -68,6 +64,10 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "Knowledge Base",
+      "pages": ["knowledge-base/dashboards-or-tables"]
     }
   ],
   "footerSocials": {
