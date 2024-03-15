@@ -43,7 +43,7 @@
     },
     {
       "group": "Best Practices",
-      "pages": ["Filters and Group By's", "Dashboard or Table"]
+      "pages": ["best-practices/dashboards-or-tables", "best-practices/when-to-group-by"]
     },
     {
       "group": "Essentials",
